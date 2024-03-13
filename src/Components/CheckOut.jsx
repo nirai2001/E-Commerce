@@ -45,7 +45,6 @@ export default function Checkout() {
       city,
     }));
 
-    // Proceed with order submission or other actions
     handleOrder();
   }
 
